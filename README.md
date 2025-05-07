@@ -7,7 +7,7 @@
       <pre><code>git clone https://github.com/WillianSi/cursoReactQuiz.git</code></pre>
     </li>
     <li>Navegue até o diretório do projeto:
-      <pre><code>cd cursoReactQuiz</code></pre>
+      <pre><code>cd ReactQuiz</code></pre>
     </li>
     <li>Instale as dependências:
       <pre><code>npm install</code></pre>
